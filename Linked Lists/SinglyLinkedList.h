@@ -1,5 +1,5 @@
 //
-//  Header.h
+//  SinglyLinkedList.h
 //  main
 //
 //  Created by Aaron Tartz on 3/28/23.
