@@ -1,5 +1,5 @@
-# COMPE-260 Assignment 3: OOP
-## Description: Restaurant Employee Database
+# COMPE-260 Assignment 3: Restaurant Employee Database (OOP)
+## Description
 This program first prompts the user to enter the profit the restaurant has made,
 along with the amount of tips each of the three waiters received. Using set values for
 the employee’s name, ID, class, base salary, cuisine/expertise, and years of experience,
