@@ -14,12 +14,20 @@ Then, to run the program in terminal:
 ## Output with driver.cpp:
 ```
 Radius: 1
-Diameter: 2 Circumference: 6.28319 Area: 12.5664
+Diameter: 2
+Circumference: 6.28319
+Area: 12.5664
 Volume: 4.18879
+
 Radius: 3.5
-Diameter: 7 Circumference: 21.9911 Area: 153.938
+Diameter: 7
+Circumference: 21.9911
+Area: 153.938
 Volume: 179.594
+
 Radius: 6
-Diameter: 12 Circumference: 37.6991 Area: 452.389
+Diameter: 12
+Circumference: 37.6991
+Area: 452.389
 Volume: 904.779
 ```
