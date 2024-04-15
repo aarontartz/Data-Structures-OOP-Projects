@@ -1,4 +1,4 @@
-# COMPE-260 Assignment 2 - Linked Lists: Simple Modifiable List
+# COMPE-260 Assignment 2 - Linked Lists: "Simple Modifiable List"
 ## Description
 This program first prompts the user to enter 7 numbers. If the number inputted is
 even, the program pushes the number into the front of a linked list, and if the number is
