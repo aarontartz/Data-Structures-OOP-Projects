@@ -1,2 +1,4 @@
 # Data-Structures-OPP-Assignments
-Assignments for COMPE-260 (Data Structures and Object-Oriented Programming) class
+C++ projects that can contain useful code to be referenced for future, more advanced projects.
+
+Includes assignments for COMPE-260 (Data Structures and Object-Oriented Programming) class.
