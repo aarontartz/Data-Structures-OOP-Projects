@@ -13,7 +13,7 @@ detect if the inputs are integers. However, this program will detect if the user
 other value other than “H” or “T” during when it is asking the user to remove values from
 the list, and will repeatedly ask the user to enter a different input until the user enters a
 valid input.
-### Running on mac:
+## Running on macOS
 To run on mac, I type the following into terminal after putting these files into an Xcode project:
 ```
 clang++ /Users/myName/myDirectory/main.cpp -o program
@@ -22,3 +22,29 @@ Then, to run the program in terminal:
 ```
 ./program
 ```
+## Sample Output
+```
+Insert 7 numbers, one at a time:
+1
+List: 1
+3
+List: 1, 3
+5
+List: 1, 3, 5
+7
+List: 1, 3, 5, 7
+9
+List: 1, 3, 5, 7, 9
+8
+List: 8, 1, 3, 5, 7, 9
+6
+List: 6, 8, 1, 3, 5, 7, 9
+Enter H to remove the head value, enter T to remove the tail value of the stack:
+H
+List: 8, 1, 3, 5, 7, 9
+T
+List: 8, 1, 3, 5, 7
+H
+List: 1, 3, 5, 7
+```
+
