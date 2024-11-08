@@ -6,12 +6,14 @@ Includes assignments for COMPE-260 (Data Structures and Object-Oriented Programm
 ## Instructions (MAC)
 
 ### C
+'''
 clang /Users/path/driver.c -o program  
-
+''''
 OR  
-
+'''
 clang++ /Users/path/driver.cpp -o program  
-
+'''
 THEN  
-
+'''
 ./program
+'''
